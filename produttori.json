@@ -1,23 +1,84 @@
-[
-  {
-    "id": 1,
-    "nome": "Azienda di esempio",
-    "tipologia": "Produttore",
-    "olio": "Olio Extravergine",
-    "campagna": "2024/2025",
-    "cultivars": ["Leccino", "Moraiolo"],
-    "descrittori": "Fruttato medio, note erbacee",
-    "intensita": "Media",
-    "schedaValutazione": "",
-    "riconoscimenti": "",
-    "comune": "Comune di esempio",
-    "indirizzo": "Via degli Ulivi 10",
-    "telefono": "+39 000 0000000",
-    "email": "email@esempio.it",
-    "strutturaRicettiva": "",
-    "sitoWeb": "",
-    "facebook": "",
-    "instagram": "",
-    "position": [42.500, 12.500]
-  }
-]
+{
+  "produttori": [
+    {
+      "id": "p1",
+      "nome": "Frantoio San Giorgio",
+      "localita": "Andria (BT)",
+      "contatti": {
+        "sito": "https://www.frantoiosangiorgio.it",
+        "email": "info@frantoiosangiorgio.it"
+      },
+      "oli": [
+        {
+          "id": "p1-o1",
+          "nome": "Coratina DOP",
+          "categoria": "Monocultivar",
+          "descrizione": "Olio intenso e fruttato, tipico della cultivar Coratina."
+        },
+        {
+          "id": "p1-o2",
+          "nome": "Blend Classico",
+          "categoria": "Blend",
+          "descrizione": "Miscela equilibrata di varietà pugliesi."
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "nome": "Olio Verde Mare",
+      "localita": "Ragusa (RG)",
+      "contatti": {
+        "sito": "https://www.olioverdemare.it",
+        "email": "contatti@olioverdemare.it"
+      },
+      "oli": [
+        {
+          "id": "p2-o1",
+          "nome": "Tonda Iblea",
+          "categoria": "Monocultivar",
+          "descrizione": "Dolce, profumato, con nota finale di pomodoro verde."
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "nome": "Antico Frantoio Rossi",
+      "localita": "Imperia (IM)",
+      "contatti": {
+        "sito": "https://www.frantoirossi.it",
+        "email": "info@frantoirossi.it"
+      },
+      "oli": [
+        {
+          "id": "p3-o1",
+          "nome": "Taggiasca Oro",
+          "categoria": "Monocultivar",
+          "descrizione": "Olio delicato e aromatico, tipico della Riviera Ligure."
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "nome": "Fattoria del Sole",
+      "localita": "Perugia (PG)",
+      "contatti": {
+        "sito": "https://www.fattoriadelsole.it",
+        "email": "info@fattoriadelsole.it"
+      },
+      "oli": [
+        {
+          "id": "p4-o1",
+          "nome": "Frantoiano BIO",
+          "categoria": "Biologico",
+          "descrizione": "Olio biologico fruttato medio, lavorato a freddo."
+        },
+        {
+          "id": "p4-o2",
+          "nome": "Blend Umbria",
+          "categoria": "Blend",
+          "descrizione": "Equilibrato e versatile, ideale per la cucina quotidiana."
+        }
+      ]
+    }
+  ]
+}
