@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "Azienda di esempio",
+    "tipologia": "Produttore",
+    "olio": "Olio Extravergine",
+    "campagna": "2024/2025",
+    "cultivars": ["Leccino", "Moraiolo"],
+    "descrittori": "Fruttato medio, note erbacee",
+    "intensita": "Media",
+    "schedaValutazione": "",
+    "riconoscimenti": "",
+    "comune": "Comune di esempio",
+    "indirizzo": "Via degli Ulivi 10",
+    "telefono": "+39 000 0000000",
+    "email": "email@esempio.it",
+    "strutturaRicettiva": "",
+    "sitoWeb": "",
+    "facebook": "",
+    "instagram": "",
+    "position": [42.500, 12.500]
+  }
+]
