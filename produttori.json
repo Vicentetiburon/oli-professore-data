@@ -1,114 +1,52 @@
 {
   "produttori": [
     {
-      "id": "p1",
-      "nome": "Azienda Agricola Zefferino",
-      "localita": "Montefalco (Via del Leccino, 12, 06036 - PG)",
-      "lat": 42.8921,
-      "lng": 12.6483,
-      "google_maps": "https://www.google.com/maps?q=42.8921,12.6483",
-      "cultivar_piantate": ["Moraiolo", "Frantoio"],
-      "contatti": {
-        "telefono": "DA_INSERIRE_TELEFONO",
-        "email": "info@zefferino.it",
-        "sito": "https://zefferino.it",
-        "facebook": "https://facebook.com/AziendaZefferino",
-        "instagram": "https://instagram.com/zefferino_oil"
-      },
-      "oli": [
-        {
-          "id": "p1-o1",
-          "campagna_olearia": "2024/2025",
-          "nome_olio": "Terre di Zefferino",
-          "intensita": "Intensa",
-          "descrittori": ["Fruttato intenso", "Amaro", "Pomodoro"],
-          "riconoscimenti": ["3 Foglie Gambero Rosso"],
-          "scheda_valutazione": "95/100"
-        }
-      ]
-    },
-    {
-      "id": "p2",
-      "nome": "Frantoio Colleventoso",
-      "localita": "Spoleto (Strada Provinciale 452, 06049 - PG)",
-      "lat": 42.7406,
-      "lng": 12.7397,
-      "google_maps": "https://www.google.com/maps?q=42.7406,12.7397",
-      "cultivar_piantate": ["Leccino", "Moraiolo"],
-      "contatti": {
-        "telefono": "+39 320 555 1188",
-        "email": "info@colleventoso.it",
-        "sito": "https://colleventoso.it",
-        "facebook": "https://facebook.com/colleventoso",
-        "instagram": "https://instagram.com/colleventoso_frantoio"
-      },
-      "oli": [
-        {
-          "id": "p2-o1",
-          "campagna_olearia": "2024/2025",
-          "nome_olio": "Collevento",
-          "intensita": "Media",
-          "descrittori": ["Erbaceo", "Mandorla", "Freschezza vegetale"],
-          "riconoscimenti": ["2 Foglie Gambero Rosso"],
-          "scheda_valutazione": "89/100"
-        }
-      ]
-    },
-    {
-      "id": "p3",
-      "nome": "Olearia Torre del Vento",
-      "localita": "Trevi (Via dei Cipressi, 7, 06039 - PG)",
-      "lat": 42.8744,
-      "lng": 12.7431,
-      "google_maps": "https://www.google.com/maps?q=42.8744,12.7431",
-      "cultivar_piantate": ["Frantoio", "Leccino", "Pendolino"],
-      "contatti": {
-        "telefono": "+39 075 998 2231",
-        "email": "contatti@torredelvento.it",
-        "sito": "https://torredelvento.it",
-        "facebook": "https://facebook.com/torredelvento",
-        "instagram": "https://instagram.com/torredelvento_olio"
-      },
-      "oli": [
-        {
-          "id": "p3-o1",
-          "campagna_olearia": "2024/2025",
-          "nome_olio": "Vento Supremo",
-          "intensita": "Leggera",
-          "descrittori": ["Note floreali", "Mandorla dolce", "Erba appena tagliata"],
-          "riconoscimenti": ["Menzione Slow Oil"],
-          "scheda_valutazione": "87/100"
-        }
-      ]
-    },
-    {
-      "id": "p4",
       "nome": "Tenuta Le Fontanelle",
       "localita": "Assisi (Via delle Ginestre, 18, 06081 - PG)",
-      "lat": 43.0707,
-      "lng": 12.6196,
-      "google_maps": "https://www.google.com/maps?q=43.0707,12.6196",
+      "lat": 43.0703,
+      "lng": 12.6171,
+      "google_maps": "https://maps.google.com/?q=43.0703,12.6171",
+      "dettagli_url": "https://raw.githubusercontent.com/Vicentetiburon/oli-professore-data/main/dettagli/tenuta-le-fontanelle.json",
       "cultivar_piantate": ["Moraiolo", "San Felice"],
       "contatti": {
-        "telefono": "+39 333 440 9921",
-        "email": "info@lefontanelle.it",
-        "sito": "https://lefontanelle.it",
-        "facebook": "https://facebook.com/tenutalefontanelle",
-        "instagram": "https://instagram.com/tenutalefontanelle"
-      },
-      "oli": [
-        {
-          "id": "p4-o1",
-          "campagna_olearia": "2024/2025",
-          "nome_olio": "Fontanelle Riserva",
-          "intensita": "Intensa",
-          "descrittori": ["Carciofo", "Erbaceo", "Pepe nero"],
-          "riconoscimenti": ["Finalista Orciolo d’Oro"],
-          "scheda_valutazione": "92/100"
-        }
-      ]
+        "telefono": "+39 333 440 9921"
+      }
+    },
+    {
+      "nome": "Azienda Agricola Zefferino",
+      "localita": "Montefalco (Via del Leccino, 12, 06036 - PG)",
+      "lat": 42.8938,
+      "lng": 12.6477,
+      "google_maps": "https://maps.google.com/?q=42.8938,12.6477",
+      "dettagli_url": "https://raw.githubusercontent.com/Vicentetiburon/oli-professore-data/main/dettagli/azienda-zefferino.json",
+      "cultivar_piantate": ["Moraiolo", "Frantoio"],
+      "contatti": {
+        "telefono": "DA_INSERIRE_TELEFONO"
+      }
+    },
+    {
+      "nome": "Frantoio Colleventoso",
+      "localita": "Spoleto (Strada Provinciale 452, 06049 - PG)",
+      "lat": 42.7305,
+      "lng": 12.7356,
+      "google_maps": "https://maps.google.com/?q=42.7305,12.7356",
+      "dettagli_url": "https://raw.githubusercontent.com/Vicentetiburon/oli-professore-data/main/dettagli/frantoio-colleventoso.json",
+      "cultivar_piantate": ["Leccino", "Moraiolo"],
+      "contatti": {
+        "telefono": "+39 320 555 1188"
+      }
+    },
+    {
+      "nome": "Olearia Torre del Vento",
+      "localita": "Terni (Via Flaminia, 234, 05100 - TR)",
+      "lat": 42.5631,
+      "lng": 12.6466,
+      "google_maps": "https://maps.google.com/?q=42.5631,12.6466",
+      "dettagli_url": "https://raw.githubusercontent.com/Vicentetiburon/oli-professore-data/main/dettagli/olearia-torre-del-vento.json",
+      "cultivar_piantate": ["Frantoio", "Leccino", "Pendolino"],
+      "contatti": {
+        "telefono": "+39 347 882 3344"
+      }
     }
   ]
 }
-
-
