@@ -1,1 +1,15 @@
-
+{
+  "campagna_olearia": "2024/2025",
+  "descrittori": [
+    "Fruttato leggero",
+    "Erba fresca",
+    "Mandorla dolce"
+  ],
+  "intensita": "Delicato con note dolci",
+  "riconoscimenti": [],
+  "contatti": {
+    "telefono": "DA_INSERIRE_TELEFONO"
+  },
+  "struttura_ricettiva": false,
+  "social": {}
+}
