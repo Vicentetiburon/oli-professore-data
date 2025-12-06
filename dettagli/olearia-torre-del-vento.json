@@ -1,1 +1,23 @@
-
+olearia-torre-del-vento.json
+{
+  "campagna_olearia": "2024/2025",
+  "descrittori": [
+    "Fruttato medio",
+    "Erba",
+    "Pomodoro",
+    "Mandorla"
+  ],
+  "intensita": "Medio con buon equilibrio",
+  "riconoscimenti": [
+    "Certificazione DOP Umbria"
+  ],
+  "contatti": {
+    "telefono": "+39 347 882 3344",
+    "email": "contatti@torredelven to.it"
+  },
+  "struttura_ricettiva": true,
+  "social": {
+    "sito_web": "https://www.torredelven to.it",
+    "instagram": "https://www.instagram.com/torredelven to"
+  }
+}
