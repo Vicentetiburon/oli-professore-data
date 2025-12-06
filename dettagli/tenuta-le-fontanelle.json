@@ -1,1 +1,27 @@
-
+{
+  "campagna_olearia": "2024/2025 - Raccolta da metà ottobre a fine novembre, molitura entro 24 ore dalla raccolta",
+  "descrittori": [
+    "Fruttato medio",
+    "Note di carciofo",
+    "Mandorla",
+    "Erba tagliata",
+    "Pomodoro verde"
+  ],
+  "intensita": "Medio-intenso con retrogusto piccante e amaro equilibrati",
+  "scheda_valutazione": "https://esempio.com/scheda-tenuta-le-fontanelle.pdf",
+  "riconoscimenti": [
+    "Medaglia d'oro Concorso Internazionale Olio EVO 2024",
+    "Certificazione DOP Umbria Colli Assisi-Spoleto",
+    "Premio Qualità Regione Umbria 2023"
+  ],
+  "contatti": {
+    "telefono": "+39 333 440 9921",
+    "email": "info@tenutalefontanelle.it"
+  },
+  "struttura_ricettiva": true,
+  "social": {
+    "sito_web": "https://www.tenutalefontanelle.it",
+    "facebook": "https://www.facebook.com/tenutalefontanelle",
+    "instagram": "https://www.instagram.com/tenutalefontanelle"
+  }
+}
