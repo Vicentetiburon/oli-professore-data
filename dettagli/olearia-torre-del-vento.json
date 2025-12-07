@@ -1,5 +1,6 @@
 {
   "campagna_olearia": "2024/2025",
+  "nome_olio": "Olio Extra Vergine Torre del Vento",
   "descrittori": [
     "Fruttato medio",
     "Erba",
@@ -7,6 +8,7 @@
     "Mandorla"
   ],
   "intensita": "Medio con buon equilibrio",
+  "scheda_valutazione": "https://esempio.com/scheda-valutazione.pdf",
   "riconoscimenti": [
     "Certificazione DOP Umbria"
   ],
@@ -17,6 +19,7 @@
   "struttura_ricettiva": true,
   "social": {
     "sito_web": "https://www.torredelven to.it",
+    "facebook": "https://www.facebook.com/torredelven to",
     "instagram": "https://www.instagram.com/torredelven to"
   }
 }
