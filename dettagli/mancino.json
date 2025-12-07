@@ -5,18 +5,18 @@
     "Fruttato"
   ],
   "intensita": "Medio",
-  "scheda_valutazione": null,
+  "scheda_valutazione": "",
   "riconoscimenti": [
     "Bicchiere d'argento MIOOA",
     "Slow food Extravergini 2025"
   ],
   "contatti": {
-    "email": "Info@peccatidigusto.com"
+        "email": "Info@peccatidigusto.com"
   },
   "struttura_ricettiva": false,
   "social": {
-    "sito_web": null,
-    "facebook": null,
-    "instagram": null
+    "sito_web": "",
+    "facebook": "",
+    "instagram": ""
   }
 }
