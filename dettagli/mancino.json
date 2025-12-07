@@ -5,7 +5,7 @@
     "Fruttato"
   ],
   "intensita": "Medio",
-  "scheda_valutazione": "",
+  "scheda_valutazione": null,
   "riconoscimenti": [
     "Bicchiere d'argento MIOOA",
     "Slow food Extravergini 2025"
@@ -15,8 +15,8 @@
   },
   "struttura_ricettiva": false,
   "social": {
-    "sito_web": "",
-    "facebook": "",
-    "instagram": ""
+    "sito_web": null,
+    "facebook": null,
+    "instagram": null
   }
 }
