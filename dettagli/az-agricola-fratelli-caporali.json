@@ -1,0 +1,25 @@
+{
+  "campagna_olearia": "2024/2025",
+  "nome_olio": "DOP EVO 333",
+  "descrittori": [
+    "Dolce",
+    "Amaro",
+    "Piccante"
+    
+  ],
+  "intensita": "Intenso",
+  "scheda_valutazione": "",
+  "riconoscimenti": [
+    "Bicchierino oro Miooa 2025",
+    "Oro Tokyo int olive oil competition"
+  ],
+  "contatti": {
+        "email": "info@333evo.com"
+  },
+  "struttura_ricettiva": "Sì",
+  "social": {
+    "sito_web": "https://www.333evo.com/",
+    "facebook": "olio evo 333",
+    "instagram": "olioevo333"
+  }
+}
