@@ -13,15 +13,15 @@
       }
     },
     {
-      "nome": "Azienda Agricola Zefferino",
-      "localita": "Montefalco (Via del Leccino, 12, 06036 - PG)",
-      "lat": 42.8938,
-      "lng": 12.6477,
-      "google_maps": "https://maps.google.com/?q=42.8938,12.6477",
-      "dettagli_url": "https://raw.githubusercontent.com/Vicentetiburon/oli-professore-data/main/dettagli/azienda-zefferino.json",
-      "cultivar_piantate": ["Moraiolo", "Frantoio"],
+      "nome": "Vincenzo Albini",
+      "localita": "Capccio (Via Vecchia Capaccio Paestum, 84047 - SA)",
+      "lat": 40.4255,
+      "lng": 15.0574,
+      "google_maps": "https://maps.google.com/?q=40.4255,15.0574",
+      "dettagli_url": "https://raw.githubusercontent.com/Vicentetiburon/oli-professore-data/main/dettagli/vincenzo-albini.json",
+      "cultivar_piantate": ["Rotondella"],
       "contatti": {
-        "telefono": "DA_INSERIRE_TELEFONO"
+        "telefono": "3289521765"
       }
     },
     {
